@@ -45,7 +45,7 @@ I'm a data engineering leader with 13+ years of experience in enterprise-scale s
 - 📧 decodewithnitin@gmail.com  
 - 🔗 [LinkedIn](https://www.linkedin.com/in/nitingoswami1989)  
 - 📰 [Medium Blog](https://medium.com/@decodewithnitin)  
-- 🧪 [ORCID Profile](https://orcid.org) *(Coming Soon)*
+- 🧪 [ORCID Profile](https://orcid.org/0009-0002-0801-0580)
 
 ---
 
